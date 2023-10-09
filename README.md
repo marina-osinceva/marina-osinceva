@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst from Ekaterinburg</a> </h3>
 
 
-- 📫 How to reach me: [email](mailto:m.o.osinceva@gmail.com), [telegram](https://t.me/white_rabbbit)
+- 📫 How to reach me: [m.o.osinceva@gmail.com](mailto:m.o.osinceva@gmail.com), [telegram](https://t.me/white_rabbbit)
 - :page_facing_up: Know about my experiences: [CV](https://ekaterinburg.hh.ru/resume/81725b27ff0c4348510039ed1f456f41567453)
 - :earth_africa: I speak Russian, English
 
