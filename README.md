@@ -10,8 +10,10 @@
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd801&color=050505)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=217346&color=050505)
+![Redash](https://img.shields.io/badge/redash-%23000000.svg?style=for-the-badge&logo=redash&logoColor=white&color=050505)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=orange&color=050505)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&color=050505)
+
 
 ## Frameworks and libraries
 ![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=whirw&color=050505)
