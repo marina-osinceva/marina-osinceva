@@ -3,8 +3,8 @@
 <h3 align="center">Data Analyst from Ekaterinburg</a> </h3>
 
 
-- 📫 How to reach me: [m.o.osinceva@gmail.com](mailto:m.o.osinceva@gmail.com), [telegram](https://t.me/white_rabbbit)
-- :page_facing_up: Know about my experiences: [CV](https://ekaterinburg.hh.ru/resume/81725b27ff0c4348510039ed1f456f41567453)
+- 📫 How to reach me: [marina.ossinceva@gmail.com](mailto:marina.ossinceva@gmail.com), [telegram](https://t.me/white_rabbbit)
+- :page_facing_up: Know about my experiences: [CV](https://drive.google.com/file/d/192aORkJ9_Jq6FLBvyhkX6rn6zMyztlKZ/view?usp=sharing)
 - :earth_africa: I speak Russian, English
 
 ## Languages and Tools
@@ -23,10 +23,8 @@
 ## Databases
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=5663af&color=050505)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=21759b&color=050505)
-![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=00796b&color=050505)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-00f.svg?style=for-the-badge&logo=ClickHouse&logoColor=ffd801&color=050505)
 
-
 ## Contact
-[![Gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&color=050505)](mailto:m.o.osinceva@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&color=050505)](mailto:marina.ossinceva@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=27A0D9&color=050505)](https://t.me/white_rabbbit)
