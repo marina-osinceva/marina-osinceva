@@ -4,7 +4,6 @@
 
 
 - 📫 How to reach me: [marina.ossinceva@gmail.com](mailto:marina.ossinceva@gmail.com), [telegram](https://t.me/white_rabbbit)
-- :page_facing_up: Know about my experiences: [CV](https://drive.google.com/file/d/192aORkJ9_Jq6FLBvyhkX6rn6zMyztlKZ/view?usp=sharing)
 - :earth_africa: I speak Russian, English
 
 ## Languages and Tools
